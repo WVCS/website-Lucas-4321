@@ -1,0 +1,69 @@
+<html>
+  <head> </head>
+  <body>
+    <ul>
+      <li> <a href="index.html"> Home </a></li>
+      <li> <a href="projects.html"> My Coding Projects </a></li>
+    </ul>
+    
+    <br>
+    <br>
+    <center>
+    <h2> My Coding Projects </h2>
+      <br>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/7hslnKDLO5s7_KfG_Ac7vJyu-CV8m01Ar6ftl5yDJNI/embed"></iframe>
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/sgvaN3WaBBDswogGeyBHYwUhiqtP9Yv9JFA7-5OrreE/embed"></iframe>
+  </body>
+</html>
+
+<style>
+body{
+ background-image: url("https://i.postimg.cc/Hkp9v7Y4/Untitled-design2351.png");
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: 100%;
+ background-attachment: fixed;
+
+}
+
+ul{
+  list-style: none;
+  background-color: white;
+  width: 42%;
+  margin: 1px;
+  position: fixed;
+  padding: 6px;
+  border-radius: 25px;
+}
+
+li{
+  text-align: left;
+  display: inline;
+  padding: 42px;
+}
+
+a{
+  border-radius: 25px;
+  border: 1px solid #a2bac4;
+  text-decoration: none;
+  color: black;
+  font-variant: small-caps;
+  padding: 11px 30px;
+}
+
+li a:hover {
+  border-radius: 25px;
+  background-color: #444;
+  color: white;
+}
+
+h2{
+  color: white;
+  font-size: 250%;
+  font-family: Garamond;
+  font-style: italic;
+  text-decoration: overline underline dotted 2px;
+  letter-spacing: 3px;
+  text-decoration-thickness: 3px;
+}
+</style>
